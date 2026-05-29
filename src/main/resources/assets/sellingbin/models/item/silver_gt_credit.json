@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sellingbin:item/silver_gt_credit"
+  }
+}
+
